@@ -34,7 +34,7 @@ const styles = css({
 
   '> div:nth-of-type(1), > div:nth-of-type(3)': {
     '> * + *': {
-      marginLeft: spacing.normal
+      marginLeft: spacing.xlarge
     }
   }
 })
